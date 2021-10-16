@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,UAAU,CAAV,OAAU;EACN,EAAE;IACA,SAAS,EAAE,iBAAiB;;EAE9B,IAAI;IACF,SAAS,EAAE,eAAe;;;;AAI9B,AAAA,QAAQ,CAAA;EACN,SAAS,EAAE,yBAAyB;CACrC",
+    "sources": [
+        "LichSu.scss"
+    ],
+    "names": [],
+    "file": "LichSu.css"
+}

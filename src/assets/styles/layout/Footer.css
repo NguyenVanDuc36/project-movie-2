@@ -1,0 +1,19 @@
+.footer {
+  color: #d1d0cf !important;
+}
+
+.footer .text-contact {
+  font-size: 20px;
+  color: #e41a1a;
+}
+
+.footer .text-big {
+  color: #d1d0cf !important;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.footer .text-big:hover {
+  color: #e41a1a !important;
+}
+/*# sourceMappingURL=Footer.css.map */

@@ -1,0 +1,20 @@
+.profle h1 {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.profle h1 i {
+  font-size: 25px;
+  color: gray;
+  margin-right: 10px;
+}
+
+.profle h1 span {
+  font-weight: 600;
+}
+
+.profle .ant-tabs-nav-wrap {
+  margin-left: 6rem;
+  height: 80px;
+}
+/*# sourceMappingURL=ThongTinCaNhan.css.map */

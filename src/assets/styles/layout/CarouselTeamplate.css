@@ -1,0 +1,24 @@
+.item {
+  background-color: linear-gradient(to top, #1E2129, transparent) !important;
+}
+
+.owl-dots {
+  position: absolute !important;
+  left: 47.5% !important;
+  bottom: 7px !important;
+}
+
+.owl-dots .owl-dot {
+  outline: none !important;
+}
+
+.owl-dots .owl-dot span {
+  font-size: 20px !important;
+  -webkit-transition: all 0.3s !important;
+  transition: all 0.3s !important;
+}
+
+.owl-dots .owl-dot span:hover {
+  background-color: red !important;
+}
+/*# sourceMappingURL=CarouselTeamplate.css.map */
